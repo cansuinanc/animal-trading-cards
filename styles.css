@@ -1,0 +1,77 @@
+.trading-card{
+  color: #008B8B;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  width: 305px;
+  text-align: justify;
+  border: solid 3px;
+  border-color: #5F9EA0;
+  background-image: url(http://laoblogger.com/images/fish-pattern-background-5.jpg);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 0px #DCDCDC;
+  margin: inherit;
+  padding: 0px 15px 15px 15px;
+}
+
+.animal-name{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  width: 300px;
+  height: auto;
+  border: solid 3px;
+  border-color: #5F9EA0;
+  border-radius: 10px;
+  background-color: #FFFACD;
+}
+
+.seal-image{
+  width: 300px;
+  height: auto;
+  border: solid 3px;
+  border-color: #5F9EA0;
+  border-radius: 10px;
+}
+
+.information{
+  width: 280px;
+  border: solid 3px;
+  border-color: #5F9EA0;
+  border-radius: 10px;
+  margin-top: 15px;
+  padding: 0px 10px 0px 10px;
+  background-color: #E6E6FA;
+}
+
+.interesting-fact{
+  font-style: italic;
+}
+
+.item-list{
+  list-style: none;
+  padding: 5px 5px 5px 5px;
+  border: solid 3px;
+  border-color: #5F9EA0;
+  border-radius: 10px;
+  background-color: #FFFACD;
+}
+
+li span {
+  font-weight: bold;
+}
+
+.more-info{
+  border: solid 3px;
+  border-color: #5F9EA0;
+  border-radius: 10px;
+  margin-top: 15px;
+  padding: 0px 10px 0px 10px;
+  background-color: #E6E6FA;
+}
+
+.QR-code{
+  width: 50px;
+  height: auto;
+  float: left;
+  padding: 3px 10px 0px 0px;
+}
